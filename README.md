@@ -55,6 +55,6 @@ A robust MERN stack application featuring secure user authentication, a RESTful 
     ```
 
 ##  Screenshots
-![Dashboard Screenshot 1](./image.png)
-![Dashboard Screenshot 2](./image-1.png)
-![Dashboard Screenshot 3](./image-2.png)
+![Dashboard Screenshot 1](./assets/image.png)
+![Dashboard Screenshot 2](./assets/image-1.png)
+![Dashboard Screenshot 3](./assets/image-2.png)
